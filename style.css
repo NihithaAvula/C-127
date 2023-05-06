@@ -19,4 +19,10 @@ canvas{
     border: 1px solid white;
     border-radius: 20px;
     box-shadow: 5px 5px 5px white;
+    margin-top: 100px;
+}
+
+.song_name{
+    margin: 20px;
+    font-size: 23px;
 }
